@@ -1,5 +1,5 @@
 import streamlit as st
 
 
-st.title("In-app favoriting is *not* here!")
+st.title("In-app favoriting is here!")
 
